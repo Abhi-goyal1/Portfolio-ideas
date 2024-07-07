@@ -4,14 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio</title>
+    <title>Portfolio Hub</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark sticky-top ">
-        <a class="navbar-brand" href="/index.html">Portfolio</a>
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top container-fluid">
+        <a class="navbar-brand" href="/index.html">P<span>H.</span></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -34,7 +35,7 @@
             <div class="feature__grid">
                 <div>
                     <div class="feature__content">
-                        <p class="feature__label">Pills &amp; potions</p>
+                        <p class="feature__label">1000+ Portafolios ideas</p>
                         <h1>Inspiration Hub for Portfolio Designs</h1>
                         <p class="cd-line-height-lg">Explore a curated collection of stunning portfolio website ideas tailored for developers and designers. Discover innovative layouts, unique design elements, and effective presentation techniques to elevate your online presence..</p>
 
@@ -48,7 +49,7 @@
                 <div>
                     <figure>
                         <img class="feature__img" data-img-light
-                            src="https://d3ae4wrz2ljkbq.cloudfront.net/components/img-3-2-light-1.svg"
+                            src="/public/images/collage (2).png"
                             alt="Image description">
                     </figure>
                 </div>
@@ -57,39 +58,56 @@
     </section>
 
     <section id="features" class="container">
-        <div class="row">
-            <div class="col-md-4">
-                <div class="card mb-4">
+        <div class="row card-main d-flex">
+            <div class="col-md-3 d-flex">
+                <div class="card mb-3 flex-fill">
                     <div class="card-body">
-                        
-                        <h5 class="card-title">Feature 1</h5>
-                        <p class="card-text">Some description of feature 1.</p>
+                        <i class="fa-solid fa-sitemap"></i>
+                        <h5 class="card-title">The Ultimate Resource</h5>
+                        <p class="card-text">Discover over 130+ inspiring portfolio designs in one curated repository.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="card mb-4">
+            <div class="col-md-3 d-flex">
+                <div class="card mb-3 flex-fill">
                     <div class="card-body">
-                        <h5 class="card-title">Feature 2</h5>
-                        <p class="card-text">Some description of feature 2.</p>
+                        <i class="fa-solid fa-laptop-file"></i>
+                        <h5 class="card-title">Technologies Used</h5>
+                        <p class="card-text">Uncover the technologies behind each portfolio.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="card mb-4">
+            <div class="col-md-3 d-flex">
+                <div class="card mb-3 flex-fill">
                     <div class="card-body">
-                        <h5 class="card-title">Feature 3</h5>
-                        <p class="card-text">Some description of feature 3.</p>
+                        <i class="fa-solid fa-panorama"></i>
+                        <h5 class="card-title">Portfolio Previews</h5>
+                        <p class="card-text">See what each portfolio looks like at a glance.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 d-flex">
+                <div class="card mb-3 flex-fill">
+                    <div class="card-body">
+                        <i class="fa-solid fa-file-code"></i>
+                        <h5 class="card-title">Source Code</h5>
+                        <p class="card-text">Access the complete source code for each portfolio.</p>
                     </div>
                 </div>
             </div>
         </div>
+        
     </section>
 
- 
+
+    
+    <p class="totop"> 
+        <a href="#top"><i class="fa-solid fa-arrow-up"></i></a> 
+    </p>
 
     <footer class=" text-white text-center py-3">
-        <p>&copy; 2024 My Portfolio. All rights reserved.</p>
+ 
+        <p>&copy; 2024 Portfolio Hub. All rights reserved. | Developer <a style=" color: #8612FA !important; " href="https://abhigoyal.netlify.app/">Abhi Goyal</a></p>
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
