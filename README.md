@@ -1,10 +1,14 @@
-Portfolio Hub 
+# Portfolio Hub 
 
 
 
 ![brandbird (1)](https://github.com/Abhi-goyal1/Portfolio-ideas/assets/96677039/843793b2-d6cd-4626-8c0e-11b85e09f141)
 
+# Introduction :
+
 <p>A portfolio hub that encompasses 1,000 portfolios can be an extensive and versatile resource for various stakeholders, including investors, financial advisors, students, and researchers. Such a hub can provide diverse insights, comprehensive data, and an array of strategies to cater to different investment goals and risk tolerances. Here’s a detailed look at what a portfolio hub with 1,000 portfolios might entail:</p>
+
+# Portfolio Ideas :
 
 | Author                     | Screenshot                                                                                                                                                                | Live URL                                                                                                      | Repo                                                                         | Tech Stack                                                                                                     |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
