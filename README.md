@@ -1,25 +1,10 @@
-![Portfolio Ideas banner image](https://github.com/Evavic44/portfolio-ideas/assets/62628408/1452d57d-b315-44bb-9901-f4de1157577e)
+Portfolio Hub 
 
-<div>
-<img align="right" src="https://user-images.githubusercontent.com/62628408/203671459-3c139f1e-31fa-43af-80b2-e3a14ce7e646.svg" width="60px">
-<h1 align="center">Portfolio Ideas</h1> 
-<p>A curation of awesome portfolio ideas for developers and designers to draw inspirations when they decide to create their own. Want to add yours or someone else's, feel free to raise a PR to add them. Inspired by <a href="https://github.com/GorvGoyl/Clone-Wars">clone Wars</a>, <a href="https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw">30 web developer ideas to inspire you</a> and my personal struggles :).</p>
-</div>
-  
-Read about how this project started: <a href="https://eke.hashnode.dev/portfolio-ideas-an-open-source-repository-for-inspiration">Portfolio Ideas - An open-source repository for inspiration</a>
 
-## Contribute
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+![brandbird (1)](https://github.com/Abhi-goyal1/Portfolio-ideas/assets/96677039/843793b2-d6cd-4626-8c0e-11b85e09f141)
 
-[![All Contributors](https://img.shields.io/github/all-contributors/Evavic44/portfolio-ideas?style=flat-square&color=%23EE8449)](#contributors)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-<div>Want to add a portfolio to this list? read the <a href="https://github.com/Evavic44/portfolio-ideas/blob/main/CONTRIBUTING.md">guidelines</a> on how to do that.</div>
-<br>
-
-<!-- === ⭐ PORTFOLIO LINE START ⭐ === -->
+<p>A portfolio hub that encompasses 1,000 portfolios can be an extensive and versatile resource for various stakeholders, including investors, financial advisors, students, and researchers. Such a hub can provide diverse insights, comprehensive data, and an array of strategies to cater to different investment goals and risk tolerances. Here’s a detailed look at what a portfolio hub with 1,000 portfolios might entail:</p>
 
 | Author                     | Screenshot                                                                                                                                                                | Live URL                                                                                                      | Repo                                                                         | Tech Stack                                                                                                     |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -344,43 +329,3 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Mahmoud Ibrahim            | ![mahmoudibrahim.me](https://github.com/mahmoudgx/portfolio-ideas/assets/21027024/bac949d7-b209-424c-ace6-a57d067509c1)                                                   | [mahmoudibrahim.me](https://mahmoudibrahim.me)                                                                | None                                                                         | React, Strapi, Bootstrap, TypeScript, Netlify                                                                  |
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
-
-## Suggestions
-
-Do you have any portfolio you want to see added but you can't add it yourself? Just mention it in this [issue](https://github.com/Evavic44/portfolio-ideas/issues/104) and it will be picked up by the community. You can also raise a PR to add any of the portfolios suggested here as well.
-
-## Sponsor
-
-As you build your portfolio we hope you get that job or achieve what you want with it. Don't forget to star this project if you find it helpful.
-If you like this project and want to give back, consider buying me a coffee. I'll appreciate every cup. ☕
-
-<a href="https://buymeacoffee.com/victoreke">
-  <img width="170px" alt="bmc-button" src="https://user-images.githubusercontent.com/62628408/163418953-1d32bf9c-317b-44ca-b773-44e36140fc9d.png">
-</a>
-
-## Contributors
-
-Thanks goes to these wonderful people. ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://victoreke.com"><img src="https://avatars.githubusercontent.com/u/62628408?v=4?s=100" width="100px;" alt="Victor Eke "/><br /><sub><b>Victor Eke </b></sub></a><br /><a href="#maintenance-Evavic44" title="Maintenance">🚧</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Documentation">📖</a> <a href="https://github.com/Evavic44/portfolio-ideas/issues?q=author%3AEvavic44" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://israelmitolu.netlify.app"><img src="https://avatars.githubusercontent.com/u/53873209?v=4?s=100" width="100px;" alt="Israel Mitolu"/><br /><sub><b>Israel Mitolu</b></sub></a><br /><a href="https://github.com/Evavic44/portfolio-ideas/commits?author=israelmitolu" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=israelmitolu" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://piyushgoyani.thesourcepedia.org"><img src="https://avatars.githubusercontent.com/u/18528418?v=4?s=100" width="100px;" alt="Piyush Goyani"/><br /><sub><b>Piyush Goyani</b></sub></a><br /><a href="https://github.com/Evavic44/portfolio-ideas/commits?author=piyush-multiplexer" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=piyush-multiplexer" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://frankiefab.com"><img src="https://avatars.githubusercontent.com/u/46662771?v=4?s=100" width="100px;" alt="Franklin Ohaegbulam"/><br /><sub><b>Franklin Ohaegbulam</b></sub></a><br /><a href="https://github.com/Evavic44/portfolio-ideas/commits?author=frankiefab100" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=frankiefab100" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vimode"><img src="https://avatars.githubusercontent.com/u/39148877?v=4?s=100" width="100px;" alt="vimode"/><br /><sub><b>vimode</b></sub></a><br /><a href="https://github.com/Evavic44/portfolio-ideas/commits?author=vimode" title="Code">💻</a> <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=vimode" title="Documentation">📖</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
